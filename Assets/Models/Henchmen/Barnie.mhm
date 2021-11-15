@@ -1,0 +1,114 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name Barnie
+tags thug
+camera 8.5 354.0 0.5301302982996404 -0.6199905979967203 -0.2588428409421467 1.1625
+modifier head/head-age-decr|incr -0.154000
+modifier torso/torso-scale-depth-decr|incr 0.127724
+modifier torso/torso-scale-horiz-decr|incr 0.151075
+modifier torso/torso-scale-vert-decr|incr -0.107624
+modifier torso/torso-trans-in|out -0.018389
+modifier torso/torso-trans-down|up 0.223301
+modifier torso/torso-trans-backward|forward 0.001183
+modifier torso/torso-vshape-decr|incr 0.509146
+modifier torso/torso-muscle-dorsi-decr|incr 0.119698
+modifier torso/torso-muscle-pectoral-decr|incr 0.038518
+modifier hip/hip-scale-depth-decr|incr -0.063879
+modifier hip/hip-scale-horiz-decr|incr -0.112000
+modifier hip/hip-scale-vert-decr|incr -0.620000
+modifier hip/hip-trans-in|out 0.027182
+modifier hip/hip-trans-down|up -0.296000
+modifier hip/hip-trans-backward|forward -0.287810
+modifier hip/hip-waist-down|up -0.126000
+modifier stomach/stomach-navel-in|out 0.348056
+modifier stomach/stomach-tone-decr|incr 0.001006
+modifier stomach/stomach-navel-down|up 0.242164
+modifier buttocks/buttocks-volume-decr|incr 0.024686
+modifier pelvis/pelvis-tone-decr|incr -0.232429
+modifier pelvis/bulge-decr|incr 0.091287
+modifier armslegs/r-hand-fingers-distance-decr|incr -0.149492
+modifier armslegs/r-hand-fingers-diameter-decr|incr 0.199239
+modifier armslegs/r-hand-fingers-length-decr|incr 0.047481
+modifier armslegs/r-hand-scale-decr|incr 0.189114
+modifier armslegs/r-hand-trans-in|out 0.018385
+modifier armslegs/l-hand-fingers-distance-decr|incr -0.122641
+modifier armslegs/l-hand-fingers-diameter-decr|incr 0.124991
+modifier armslegs/l-hand-fingers-length-decr|incr 0.123783
+modifier armslegs/l-hand-scale-decr|incr 0.198405
+modifier armslegs/l-hand-trans-in|out 0.035758
+modifier armslegs/r-foot-scale-decr|incr -0.015302
+modifier armslegs/r-foot-trans-in|out 0.238413
+modifier armslegs/r-foot-trans-backward|forward 0.348727
+modifier armslegs/l-foot-scale-decr|incr -0.034476
+modifier armslegs/l-foot-trans-in|out 0.368785
+modifier armslegs/l-foot-trans-backward|forward 0.199886
+modifier armslegs/r-lowerarm-scale-depth-decr|incr 0.058073
+modifier armslegs/r-lowerarm-scale-horiz-decr|incr 0.030824
+modifier armslegs/r-lowerarm-scale-vert-decr|incr 0.216341
+modifier armslegs/r-lowerarm-fat-decr|incr -0.327531
+modifier armslegs/r-lowerarm-muscle-decr|incr -0.166334
+modifier armslegs/r-upperarm-scale-depth-decr|incr 0.218628
+modifier armslegs/r-upperarm-scale-horiz-decr|incr -0.142684
+modifier armslegs/r-upperarm-scale-vert-decr|incr 0.033636
+modifier armslegs/r-upperarm-fat-decr|incr -0.268605
+modifier armslegs/r-upperarm-shoulder-muscle-decr|incr -0.041757
+modifier armslegs/r-upperarm-muscle-decr|incr 0.088688
+modifier armslegs/l-lowerarm-scale-depth-decr|incr 0.055195
+modifier armslegs/l-lowerarm-scale-horiz-decr|incr -0.047591
+modifier armslegs/l-lowerarm-scale-vert-decr|incr 0.345588
+modifier armslegs/l-lowerarm-fat-decr|incr -0.132476
+modifier armslegs/l-lowerarm-muscle-decr|incr -0.131763
+modifier armslegs/l-upperarm-scale-depth-decr|incr 0.175962
+modifier armslegs/l-upperarm-scale-horiz-decr|incr -0.240556
+modifier armslegs/l-upperarm-scale-vert-decr|incr 0.082300
+modifier armslegs/l-upperarm-fat-decr|incr -0.192719
+modifier armslegs/l-upperarm-shoulder-muscle-decr|incr -0.142920
+modifier armslegs/l-upperarm-muscle-decr|incr 0.128912
+modifier armslegs/r-leg-valgus-decr|incr -0.225697
+modifier armslegs/r-lowerleg-scale-depth-decr|incr -0.022035
+modifier armslegs/r-lowerleg-scale-horiz-decr|incr 0.014269
+modifier armslegs/r-lowerleg-fat-decr|incr 0.007922
+modifier armslegs/r-lowerleg-muscle-decr|incr 0.193796
+modifier armslegs/r-upperleg-scale-depth-decr|incr -0.077132
+modifier armslegs/r-upperleg-scale-horiz-decr|incr -0.109450
+modifier armslegs/r-upperleg-scale-vert-decr|incr -0.162254
+modifier armslegs/r-upperleg-fat-decr|incr 0.037157
+modifier armslegs/r-upperleg-muscle-decr|incr -0.211046
+modifier armslegs/l-leg-valgus-decr|incr -0.222555
+modifier armslegs/l-lowerleg-scale-depth-decr|incr -0.076491
+modifier armslegs/l-lowerleg-scale-horiz-decr|incr 0.083845
+modifier armslegs/l-lowerleg-fat-decr|incr -0.032257
+modifier armslegs/l-lowerleg-muscle-decr|incr 0.028663
+modifier armslegs/l-upperleg-scale-depth-decr|incr -0.122100
+modifier armslegs/l-upperleg-scale-horiz-decr|incr -0.029734
+modifier armslegs/l-upperleg-scale-vert-decr|incr -0.220131
+modifier armslegs/l-upperleg-fat-decr|incr -0.219233
+modifier armslegs/l-upperleg-muscle-decr|incr -0.172616
+modifier armslegs/lowerlegs-height-decr|incr -0.150567
+modifier armslegs/upperlegs-height-decr|incr 0.108087
+modifier breast/BreastSize 0.394000
+modifier breast/BreastFirmness 0.496049
+modifier breast/breast-trans-down|up -0.380000
+modifier breast/breast-dist-decr|incr 0.338000
+modifier breast/breast-point-decr|incr 0.135116
+modifier breast/breast-volume-vert-down|up -0.062250
+modifier breast/nipple-size-decr|incr -0.240000
+modifier breast/nipple-point-decr|incr 1.000000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.460000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 1.000000
+modifier macrodetails/Caucasian 0.000000
+modifier macrodetails-universal/Muscle 0.732000
+modifier macrodetails-universal/Weight 0.435712
+modifier macrodetails-height/Height 0.451000
+modifier macrodetails-proportions/BodyProportions 0.472000
+proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+skeleton Uengine_Rig/uengine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes Denim_Jacket 7742a867-a091-4b25-872f-4c870fd60292
+clothes M_Trousers_02 2ffb06f9-e71b-435e-838d-29411372cb6d
+clothesHideFaces True
+skinMaterial skins/old_caucasian_male/old_caucasian_male.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
