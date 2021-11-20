@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="EmptyPistol_data" version="1.3.0" audacityversion="2.4.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="4861.1111111111" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2019-08-25T00:24"/>
+		<tag name="ALBUM" value="www.FesliyanStudios.com"/>
+		<tag name="Band" value="www.FesliyanStudios.com"/>
+		<tag name="ARTIST" value="www.FesliyanStudios.com"/>
+		<tag name="TITLE" value="www.FesliyanStudios.com"/>
+		<tag name="COMMENTS" value="www.FesliyanStudios.com"/>
+		<tag name="Composer" value="www.FesliyanStudios.com"/>
+		<tag name="GENRE" value="Sound Clip"/>
+	</tags>
+	<wavetrack name="EmptyPistol" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5519">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089a5.au" len="69" min="-0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="69">
+					<simpleblockfile filename="e0808cd7.au" len="5450" min="-0.624178" max="0.557479" rms="0.046785"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="EmptyPistol" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5519">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082d8.au" len="69" min="-0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="69">
+					<simpleblockfile filename="e08084b1.au" len="5450" min="-0.624136" max="0.557476" rms="0.046785"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
