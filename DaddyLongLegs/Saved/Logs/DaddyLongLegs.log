@@ -1661,3 +1661,162 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.11.22-01.53.23:024][  9]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.22-01.53.23:025][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
 [2021.11.22-01.53.23:025][  9]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.22-01.56.36:373][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.22-01.56.36:381][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.22-01.56.36:381][604]PIE: New page: PIE session: DLLGame (Nov 21, 2021, 3:56:36 PM)
+[2021.11.22-01.56.36:405][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.22-01.56.36:408][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002155s)
+[2021.11.22-01.56.36:409][604]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.22-01.56.36:409][604]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.11.22-01.56.36:409][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003391s)
+[2021.11.22-01.56.36:433][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.22-01.56.36:435][604]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.22-01.56.36:436][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.22-01.56.36:436][604]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.22-01.56.36:436][604]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 4: BackLeft
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 5: BackRight
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 6: SideLeft
+[2021.11.22-01.56.36:444][604]LogAudioMixer: Display: 7: SideRight
+[2021.11.22-01.56.36:469][604]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.22-01.56.36:469][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.22-01.56.36:469][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.22-01.56.36:469][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.22-01.56.36:470][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.22-01.56.36:470][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.22-01.56.36:471][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.22-01.56.36:471][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.22-01.56.36:471][604]LogInit: FAudioDevice initialized.
+[2021.11.22-01.56.36:471][604]LogAudio: Display: Audio Device (ID: 9) registered with world 'DLLGame'.
+[2021.11.22-01.56.36:481][604]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.22-01.56.36:481][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.21-20.56.36
+[2021.11.22-01.56.36:481][604]LogWorld: Bringing up level for play took: 0.000317
+[2021.11.22-01.56.36:481][604]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.22-01.56.36:483][604]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.22-01.56.36:484][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.22-01.56.36:485][604]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.22-01.56.36:485][604]PIE: Server logged in
+[2021.11.22-01.56.36:486][604]PIE: Play in editor total start time 0.107 seconds.
+[2021.11.22-01.56.36:526][606]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.22-01.56.36:739][606]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 209.16 ms
+[2021.11.22-01.56.37:775][729]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.22-01.56.37:775][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.22-01.56.37:776][729]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.22-01.56.37:810][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.11.22-01.56.38:256][784]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.22-01.56.38:273][786]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.22-01.56.38:307][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.11.22-01.56.38:603][823]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.22-01.56.38:620][825]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.22-01.56.38:620][825]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.22-01.56.38:620][825]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.22-01.56.38:621][825]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.22-01.56.38:695][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.22-01.56.38:705][827]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.22-01.56.38:957][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.11.22-01.57.16:007][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-01.57.16:007][561]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.22-01.57.16:008][561]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-01.57.16:009][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-01.57.16:078][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.22-01.57.16:091][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-01.57.16:115][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-01.57.16:115][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-01.57.16:117][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-01.57.16:129][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.11.22-01.57.16:155][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.11.22-01.57.16:201][562]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.22-01.57.16:244][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.11.22-02.04.02:849][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.11.22-02.04.02:982][959]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_Auto27CF1FFFB4855D88C5ED3E48D22CD9C54.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/Autosaves/Game/Maps/BuzzBoomerLair_Auto2.umap'
+[2021.11.22-02.04.02:989][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DLLGame' took 0.191
+[2021.11.22-02.04.02:989][959]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.191
+[2021.11.22-02.16.42:126][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.11.22-02.16.42:205][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DLLGame" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.22-02.16.42:228][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.22-02.16.42:259][104]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/DLLGame9427FD2647974A0A48328D9AA5C647CB.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame.umap'
+[2021.11.22-02.16.42:272][104]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DLLGame_BuiltData
+[2021.11.22-02.16.42:299][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DLLGame_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame_BuiltData.uasset" SILENT=true
+[2021.11.22-02.16.45:431][104]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/DLLGame_BuiltDataAAD014D4478139C53DC702A2E1F46B3E.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame_BuiltData.uasset'
+[2021.11.22-02.16.45:433][104]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DLLGame_BuiltData
+[2021.11.22-02.16.45:433][104]LogFileHelpers: Saving map 'DLLGame' took 3.228
+[2021.11.22-02.16.45:434][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.22-02.16.45:477][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.22-02.16.45:594][104]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairD73C5A8549CEBDF0571C4A955CAB57E1.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.22-02.16.45:595][104]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.22-02.16.45:595][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.22-02.16.45:596][104]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData0F4C672C4CCD8C2EECA952A3D0357572.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.22-02.16.45:597][104]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.22-02.16.45:597][104]LogFileHelpers: Saving map 'BuzzBoomerLair' took 0.163
+[2021.11.22-02.16.45:618][104]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.22-02.16.45:618][104]LogContentValidation: Display: Validating World /Game/Maps/DLLGame.DLLGame
+[2021.11.22-02.16.45:618][104]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DLLGame_BuiltData.DLLGame_BuiltData
+[2021.11.22-02.16.45:618][104]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.22-02.16.45:618][104]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.22-02.17.49:820][301]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 4: BackLeft
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 5: BackRight
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 6: SideLeft
+[2021.11.22-02.17.49:834][301]LogAudioMixer: Display: 7: SideRight
+[2021.11.22-02.20.55:523][306]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.22-02.20.55:564][306]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-02.20.55:564][306]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-02.20.55:564][306]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.22-02.20.55:564][306]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.22-02.20.55:564][306]LogAudioMixer: Display: 4: BackLeft
+[2021.11.22-02.20.55:577][306]LogAudioMixer: Display: 5: BackRight
+[2021.11.22-02.20.55:577][306]LogAudioMixer: Display: 6: SideLeft
+[2021.11.22-02.20.55:577][306]LogAudioMixer: Display: 7: SideRight
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5AE5958A-4A0B-16FE-85FB-EFBCEE45D442%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=bfc3839b494a6738cde33891dc0330c0%7C886ee5aa3d1641a199cdd7c9f61618ca%7C03f41332-14d3-4c73-9188-0acf3b76e900&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x444140b08a0 [can pipeline])
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.210.186.137) port 443 (#2))
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.11.22-02.20.57:046][309]LogHttp: Warning: 000004446B08A500: libcurl info message cache 7 (Closing connection 2)
+[2021.11.22-02.20.57:324][310]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5AE5958A-4A0B-16FE-85FB-EFBCEE45D442%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=bfc3839b494a6738cde33891dc0330c0%7C886ee5aa3d1641a199cdd7c9f61618ca%7C03f41332-14d3-4c73-9188-0acf3b76e900&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.22-04.03.51:229][751]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{92512d21-7ea8-4df5-a316-a7a981e2da38}.
+[2021.11.22-04.03.51:229][751]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.22-04.03.51:328][751]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-04.03.51:328][751]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-04.03.56:577][767]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{09041356-09de-4ead-b3e2-a8b1278449e8}.
+[2021.11.22-04.03.56:577][767]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 4: BackLeft
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 5: BackRight
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 6: SideLeft
+[2021.11.22-04.03.57:810][767]LogAudioMixer: Display: 7: SideRight
+[2021.11.22-04.03.57:874][768]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 4: BackLeft
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 5: BackRight
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 6: SideLeft
+[2021.11.22-04.03.57:898][768]LogAudioMixer: Display: 7: SideRight
