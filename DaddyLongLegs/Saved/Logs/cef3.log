@@ -4,3 +4,8 @@
 [1120/234825.567:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1120/234825.587:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 141
 [1120/234825.594:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 139
+[1122/003416.764:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1122/003416.764:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1122/003416.765:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1122/003416.765:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1122/003416.772:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 25
