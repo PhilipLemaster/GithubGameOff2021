@@ -2,7 +2,7 @@
 version v1.2.0
 name Bart
 tags thug
-camera 3.0 359.5 0.18384295426926933 0.41546590847970793 0.13083205165742343 1.1625
+camera 5.5 3.0 1.0 0.652303448519328 0.4114358149150788 1.2625000000000013
 modifier torso/torso-scale-depth-decr|incr 0.127724
 modifier torso/torso-scale-horiz-decr|incr 0.151075
 modifier torso/torso-scale-vert-decr|incr -0.107624
@@ -103,6 +103,7 @@ modifier macrodetails-universal/Weight 0.802000
 modifier macrodetails-height/Height 0.373000
 modifier macrodetails-proportions/BodyProportions 0.506756
 proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+skeleton game_engine.mhskel
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
 clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
 clothes belt4-male-cjeans 5c23791c-8c5e-4bed-a0a8-ad8649de7cb6
