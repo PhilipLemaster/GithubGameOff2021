@@ -6084,3 +6084,1208 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.23-08.35.47:263][ 40]LogContentValidation: Display: Validating World /Game/Maps/DLLGame.DLLGame
 [2021.11.23-08.35.47:264][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DLLGame_BuiltData.DLLGame_BuiltData
 [2021.11.23-08.35.47:264][ 40]LogContentValidation: Display: Validating AnimMontage /Game/Characters/Enemies/Huneez/Thugs/Bart/Animations/WithGun/RifleFire_Montage.RifleFire_Montage
+[2021.11.23-08.37.46:232][501]AssetReimport: New page: Outstanding source content changes 10:37:46 PM
+[2021.11.23-08.37.46:283][501]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Philip/GameDev/GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/Club.wav)
+[2021.11.23-08.37.47:096][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/Club" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/Club.uasset" SILENT=true
+[2021.11.23-08.37.47:105][502]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/ClubA9EDA0E74B66FE21D50D2D94764602BD.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/Club.uasset'
+[2021.11.23-08.37.47:142][503]AssetCheck: New page: Asset Save: Club
+[2021.11.23-08.37.47:142][503]LogContentValidation: Display: Validating SoundWave /Game/Music/Club.Club
+[2021.11.23-08.37.50:132][856]AssetReimport: Importing new asset /Game/Music/Club.
+[2021.11.23-08.45.43:593][501]AssetReimport: New page: Outstanding source content changes 10:45:43 PM
+[2021.11.23-08.45.43:633][501]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Philip/GameDev/GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled.wav)
+[2021.11.23-08.45.43:918][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/ClubMuffled" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled.uasset" SILENT=true
+[2021.11.23-08.45.44:039][502]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/ClubMuffledCDD91AC94A4D681750BD65A62664B695.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled.uasset'
+[2021.11.23-08.45.44:066][503]AssetCheck: New page: Asset Save: ClubMuffled
+[2021.11.23-08.45.44:066][503]LogContentValidation: Display: Validating SoundWave /Game/Music/ClubMuffled.ClubMuffled
+[2021.11.23-08.45.47:102][745]AssetReimport: Importing new asset /Game/Music/ClubMuffled.
+[2021.11.23-08.48.35:653][430]BlueprintLog: New page: Compile BP_Roaming_Bart
+[2021.11.23-08.48.35:715][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.11.23-08.48.36:302][480]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BP_Roaming_Bart9C74AAF74422833C63FAF19B70DEC017.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Characters/Enemies/Huneez/Thugs/Bart/BP_Roaming_Bart.uasset'
+[2021.11.23-08.48.36:315][480]AssetCheck: New page: Asset Save: BP_Roaming_Bart
+[2021.11.23-08.48.36:315][480]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Huneez/Thugs/Bart/BP_Roaming_Bart.BP_Roaming_Bart
+[2021.11.23-08.48.57:167][752]LogContentBrowser: Deferred new asset file creation: ClubMuffled_Cue
+[2021.11.23-08.48.57:192][752]LogContentBrowser: Creating deferred item: ClubMuffled_Cue
+[2021.11.23-08.48.58:612][773]LogContentBrowser: Attempting asset rename: ClubMuffled_Cue -> ClubMuffled_Cue
+[2021.11.23-08.48.58:614][773]LogContentBrowser: End creating deferred item ClubMuffled_Cue
+[2021.11.23-08.49.08:487][866]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Music/ClubMuffled_Cue.ClubMuffled_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.11.23-08.50.07:561][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.50.07:591][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.11.23-08.50.07:718][876]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair4093D2B34D4893C05AC4B18C11E17637.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.50.07:720][876]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.07:720][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.50.07:721][876]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData6ADC841044262A35A930678DA65076B8.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.50.07:722][876]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.07:737][876]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.50.07:737][876]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.07:737][876]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.50.09:108][914]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.50.09:118][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.50.09:118][914]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:50:09 PM)
+[2021.11.23-08.50.09:119][914]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.50.09:121][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2021.11.23-08.50.09:122][914]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.50.09:122][914]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2021.11.23-08.50.09:122][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003593s)
+[2021.11.23-08.50.09:145][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.11.23-08.50.09:147][914]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.50.09:147][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.50.09:148][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.50.09:148][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.50.09:148][914]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.50.09:148][914]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.50.09:157][914]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.50.09:178][914]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.50.09:178][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.50.09:178][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.50.09:178][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.50.09:179][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.50.09:179][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.50.09:180][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.50.09:180][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.50.09:180][914]LogInit: FAudioDevice initialized.
+[2021.11.23-08.50.09:180][914]LogAudio: Display: Audio Device (ID: 43) registered with world 'DLLGame'.
+[2021.11.23-08.50.09:191][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.50.09:192][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.50.09
+[2021.11.23-08.50.09:192][914]LogWorld: Bringing up level for play took: 0.000342
+[2021.11.23-08.50.09:192][914]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.11.23-08.50.09:193][914]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.50.09:194][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.50.09:195][914]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.50.09:195][914]PIE: Server logged in
+[2021.11.23-08.50.09:196][914]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.23-08.50.09:218][914]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.11.23-08.50.09:227][916]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.50.09:378][916]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 147.16 ms
+[2021.11.23-08.50.10:438][  2]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.50.10:438][  2]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.50.10:438][  2]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.50.10:473][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.23-08.50.11:169][ 65]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.50.11:208][ 68]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.50.11:245][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.23-08.50.11:576][ 98]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.50.11:617][101]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.50.11:617][101]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.50.11:617][101]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.50.11:617][101]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.50.12:023][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.23-08.50.12:030][104]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.50.12:113][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.11.23-08.50.17:945][180]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.50.18:278][182]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.50.18:578][184]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.50.28:897][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.50.28:897][253]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.50.28:898][253]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.50.28:899][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.50.29:176][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.50.29:201][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.50.29:220][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.50.29:220][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.50.29:221][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.50.29:229][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.11.23-08.50.29:249][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.23-08.50.29:297][254]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.11.23-08.50.29:319][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.23-08.50.52:306][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.50.52:328][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.23-08.50.52:426][726]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairF8BF129845FCB3DA7F21D9B4B38D6E98.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.50.52:427][726]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.52:427][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.50.52:428][726]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData7F3F5BF34CB047BE073605BA6F8DEEDD.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.50.52:429][726]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.52:445][726]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.50.52:445][726]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.50.52:445][726]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.50.53:057][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.50.53:067][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.50.53:067][743]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:50:53 PM)
+[2021.11.23-08.50.53:067][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.50.53:069][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002248s)
+[2021.11.23-08.50.53:070][743]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.50.53:070][743]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2021.11.23-08.50.53:070][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003561s)
+[2021.11.23-08.50.53:091][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.23-08.50.53:093][743]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.50.53:093][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.50.53:093][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.50.53:093][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.50.53:100][743]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.50.53:118][743]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.50.53:118][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.50.53:118][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.50.53:118][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.50.53:119][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.50.53:119][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.50.53:120][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.50.53:120][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.50.53:120][743]LogInit: FAudioDevice initialized.
+[2021.11.23-08.50.53:120][743]LogAudio: Display: Audio Device (ID: 44) registered with world 'DLLGame'.
+[2021.11.23-08.50.53:140][743]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.50.53:140][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.50.53
+[2021.11.23-08.50.53:140][743]LogWorld: Bringing up level for play took: 0.000337
+[2021.11.23-08.50.53:141][743]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.11.23-08.50.53:142][743]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.50.53:142][743]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.50.53:143][743]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.50.53:144][743]PIE: Server logged in
+[2021.11.23-08.50.53:144][743]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.23-08.50.53:180][745]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.50.53:347][745]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 163.98 ms
+[2021.11.23-08.50.54:399][868]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.50.54:399][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.50.54:399][868]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.50.54:429][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.23-08.50.55:002][938]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.50.55:019][940]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.50.55:048][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.23-08.50.55:363][979]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.50.55:379][981]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.50.55:379][981]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.50.55:379][981]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.50.55:379][981]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.50.55:721][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.23-08.50.55:727][984]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.50.55:981][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.23-08.50.57:687][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.50.57:688][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.50.57:688][ 35]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.50.57:690][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.50.57:747][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.50.57:772][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.50.57:791][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.50.57:792][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.50.57:793][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.50.57:799][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.23-08.50.57:820][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.11.23-08.50.57:859][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.11.23-08.50.57:879][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.23-08.51.01:611][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-08.52.20:679][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.52.20:698][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.23-08.52.20:793][786]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair61B62C2F4761E46AC78D6AAE8C9E1FB7.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.52.20:795][786]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.20:795][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.52.20:795][786]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataB774AE4C43BC905C027F08B7089610F3.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.52.20:796][786]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.20:811][786]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.52.20:812][786]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.20:812][786]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.52.21:757][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.52.21:766][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.52.21:766][810]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:52:21 PM)
+[2021.11.23-08.52.21:766][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.52.21:768][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002351s)
+[2021.11.23-08.52.21:769][810]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.52.21:769][810]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2021.11.23-08.52.21:769][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003643s)
+[2021.11.23-08.52.21:790][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.11.23-08.52.21:792][810]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.52.21:792][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.52.21:792][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.52.21:793][810]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.52.21:793][810]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.52.21:801][810]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.52.21:820][810]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.52.21:820][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.52.21:820][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.52.21:820][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.52.21:821][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.52.21:821][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.52.21:822][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.52.21:822][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.52.21:822][810]LogInit: FAudioDevice initialized.
+[2021.11.23-08.52.21:822][810]LogAudio: Display: Audio Device (ID: 45) registered with world 'DLLGame'.
+[2021.11.23-08.52.21:839][810]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.52.21:840][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.52.21
+[2021.11.23-08.52.21:840][810]LogWorld: Bringing up level for play took: 0.000348
+[2021.11.23-08.52.21:841][810]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.11.23-08.52.21:842][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.52.21:842][810]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.52.21:843][810]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.52.21:843][810]PIE: Server logged in
+[2021.11.23-08.52.21:844][810]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.23-08.52.21:880][812]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.52.22:107][812]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 225.05 ms
+[2021.11.23-08.52.23:154][934]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.52.23:154][934]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.52.23:155][934]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.52.23:198][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.11.23-08.52.23:738][  0]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.52.23:755][  2]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.52.23:783][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.23-08.52.24:056][ 36]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.52.24:073][ 38]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.52.24:073][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.52.24:073][ 38]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.52.24:073][ 38]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.52.24:157][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.11.23-08.52.24:383][ 41]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.52.24:522][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.23-08.52.29:560][113]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.52.29:897][115]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.52.38:608][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.52.38:608][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.52.38:609][171]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.52.38:609][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.52.38:868][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.52.38:892][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.52.38:912][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.52.38:912][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.52.38:914][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.52.38:920][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.23-08.52.38:940][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.23-08.52.38:978][172]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.11.23-08.52.38:998][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.11.23-08.52.44:114][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.52.44:134][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-08.52.44:232][278]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairC3E02B8E45C6DDE987EB4392DE6AB0E3.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.52.44:233][278]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.44:233][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.52.44:234][278]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData0CA559D147148C1D724011933CED04C1.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.52.44:235][278]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.44:251][278]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.52.44:251][278]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.52.44:251][278]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.52.44:815][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.52.44:823][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.52.44:823][297]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:52:44 PM)
+[2021.11.23-08.52.44:823][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.52.44:825][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002097s)
+[2021.11.23-08.52.44:826][297]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.52.44:826][297]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2021.11.23-08.52.44:826][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003435s)
+[2021.11.23-08.52.44:848][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.11.23-08.52.44:850][297]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.52.44:850][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.52.44:850][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.52.44:852][297]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.52.44:852][297]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.52.44:858][297]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.52.44:875][297]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.52.44:875][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.52.44:875][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.52.44:876][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.52.44:876][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.52.44:876][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.52.44:877][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.52.44:877][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.52.44:877][297]LogInit: FAudioDevice initialized.
+[2021.11.23-08.52.44:877][297]LogAudio: Display: Audio Device (ID: 46) registered with world 'DLLGame'.
+[2021.11.23-08.52.44:889][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.52.44:889][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.52.44
+[2021.11.23-08.52.44:889][297]LogWorld: Bringing up level for play took: 0.000321
+[2021.11.23-08.52.44:890][297]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.11.23-08.52.44:892][297]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.52.44:892][297]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.52.44:893][297]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.52.44:893][297]PIE: Server logged in
+[2021.11.23-08.52.44:894][297]PIE: Play in editor total start time 0.073 seconds.
+[2021.11.23-08.52.44:927][299]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.52.45:145][299]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 216.00 ms
+[2021.11.23-08.52.46:167][422]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.52.46:167][422]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.52.46:167][422]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.52.46:197][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.23-08.52.46:761][491]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.52.46:777][493]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.52.46:807][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.11.23-08.52.47:446][569]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.52.47:476][572]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.52.47:476][572]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.52.47:476][572]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.52.47:476][572]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.52.47:763][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.11.23-08.52.47:769][575]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.52.47:855][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.23-08.52.56:746][637]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.52.56:977][642]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.53.02:417][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.53.02:417][700]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.53.02:418][700]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.53.02:418][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.53.02:626][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.53.02:650][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.53.02:670][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.53.02:670][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.53.02:671][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.53.02:677][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.11.23-08.53.02:700][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.11.23-08.53.02:738][701]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.11.23-08.53.02:757][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.23-08.53.15:673][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.53.15:694][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-08.53.15:791][963]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairBFCDAA894017FD4B9411639AF301B903.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.53.15:792][963]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.53.15:792][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.53.15:793][963]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataAA85ADF240A7DC497DB49CBA6D4BD3D7.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.53.15:794][963]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.53.15:809][963]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.53.15:809][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.53.15:809][963]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.53.59:549][205]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Music/ClubMuffled.ClubMuffled
+[2021.11.23-08.54.02:865][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/ClubMuffled" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled.uasset" SILENT=true
+[2021.11.23-08.54.02:877][281]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/ClubMuffled0A46D866422B6AB37A5C4CAE75DE1D61.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled.uasset'
+[2021.11.23-08.54.02:892][281]AssetCheck: New page: Asset Save: ClubMuffled
+[2021.11.23-08.54.02:893][281]LogContentValidation: Display: Validating SoundWave /Game/Music/ClubMuffled.ClubMuffled
+[2021.11.23-08.54.16:816][618]LogSlate: Window 'ClubMuffled' being destroyed
+[2021.11.23-08.54.18:190][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.54.18:199][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.54.18:199][651]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:54:18 PM)
+[2021.11.23-08.54.18:199][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.54.18:201][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2021.11.23-08.54.18:202][651]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.54.18:202][651]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2021.11.23-08.54.18:202][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003620s)
+[2021.11.23-08.54.18:223][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.11.23-08.54.18:225][651]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.54.18:225][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.54.18:225][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.54.18:226][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.54.18:226][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.54.18:235][651]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.54.18:252][651]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.54.18:253][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.54.18:253][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.54.18:253][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.54.18:253][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.54.18:253][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.54.18:254][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.54.18:254][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.54.18:254][651]LogInit: FAudioDevice initialized.
+[2021.11.23-08.54.18:254][651]LogAudio: Display: Audio Device (ID: 47) registered with world 'DLLGame'.
+[2021.11.23-08.54.18:272][651]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.54.18:273][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.54.18
+[2021.11.23-08.54.18:273][651]LogWorld: Bringing up level for play took: 0.000467
+[2021.11.23-08.54.18:273][651]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.11.23-08.54.18:275][651]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.54.18:275][651]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.54.18:276][651]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.54.18:276][651]PIE: Server logged in
+[2021.11.23-08.54.18:277][651]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.23-08.54.18:307][653]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.54.18:602][653]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 292.13 ms
+[2021.11.23-08.54.19:635][776]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.54.19:635][776]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.54.19:635][776]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.54.19:664][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.23-08.54.20:111][831]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.54.20:128][833]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.54.20:157][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.23-08.54.20:437][868]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.54.20:455][870]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.54.20:455][870]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.54.20:455][870]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.54.20:455][870]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.54.20:626][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.23-08.54.20:698][873]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.54.20:803][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.11.23-08.54.26:010][987]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.54.26:221][991]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.54.26:580][997]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.54.27:495][  8]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.54.34:888][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.54.34:888][142]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.54.34:889][142]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.54.34:889][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.54.34:965][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.54.34:988][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.54.35:009][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-08.54.35:009][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.54.35:010][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.54.35:012][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.54.35:017][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.23-08.54.35:039][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.11.23-08.54.35:081][143]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.11.23-08.54.35:104][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.23-08.54.59:843][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.54.59:863][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.23-08.54.59:956][744]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairC201868F45B5DD30C11EA3951A1C7141.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.54.59:960][744]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.54.59:961][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.54.59:962][744]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataB2BA2D6C4C8E89B5575C5CA55B5A6E89.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.54.59:963][744]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.54.59:979][744]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.54.59:979][744]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.54.59:979][744]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.55.00:847][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.55.00:855][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.55.00:855][768]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:55:00 PM)
+[2021.11.23-08.55.00:855][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.55.00:857][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2021.11.23-08.55.00:858][768]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.55.00:859][768]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2021.11.23-08.55.00:859][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003582s)
+[2021.11.23-08.55.00:880][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.23-08.55.00:882][768]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.55.00:882][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.55.00:882][768]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.55.00:882][768]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.55.00:889][768]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.55.00:907][768]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.55.00:908][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.55.00:908][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.55.00:908][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.55.00:908][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.55.00:908][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.55.00:909][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.55.00:909][768]LogInit: FAudioDevice initialized.
+[2021.11.23-08.55.00:909][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.55.00:909][768]LogAudio: Display: Audio Device (ID: 48) registered with world 'DLLGame'.
+[2021.11.23-08.55.00:926][768]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.55.00:926][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.55.00
+[2021.11.23-08.55.00:927][768]LogWorld: Bringing up level for play took: 0.000391
+[2021.11.23-08.55.00:927][768]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.11.23-08.55.00:928][768]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.55.00:928][768]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.55.00:930][768]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.55.00:930][768]PIE: Server logged in
+[2021.11.23-08.55.00:931][768]PIE: Play in editor total start time 0.077 seconds.
+[2021.11.23-08.55.00:963][770]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.55.01:169][770]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 201.51 ms
+[2021.11.23-08.55.02:204][893]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.55.02:204][893]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.55.02:204][893]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.55.02:233][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.23-08.55.02:648][944]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.55.02:664][946]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.55.02:694][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.11.23-08.55.02:965][980]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.55.02:982][982]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.55.02:982][982]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.55.02:982][982]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.55.02:982][982]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.55.03:248][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.23-08.55.03:253][985]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.55.03:361][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.23-08.55.06:558][ 55]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.55.07:064][ 60]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.55.07:185][ 62]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.55.14:027][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.55.14:027][126]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.55.14:030][126]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.55.14:030][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.55.14:179][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.55.14:203][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.55.14:223][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.55.14:223][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.55.14:224][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.55.14:231][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.23-08.55.14:253][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.11.23-08.55.14:295][127]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.11.23-08.55.14:317][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.23-08.55.26:128][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-08.55.26:148][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.23-08.55.26:246][259]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairAD5073814857E28EF2E284A93CE8CB18.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-08.55.26:247][259]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.55.26:247][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-08.55.26:248][259]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataCA803EC4445BE133BD35F195146367B6.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-08.55.26:249][259]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-08.55.26:265][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-08.55.26:265][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-08.55.26:266][259]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-08.56.32:516][679]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Music/ClubMuffled_Cue.ClubMuffled_Cue
+[2021.11.23-08.56.40:310][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/ClubMuffled_Cue" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled_Cue.uasset" SILENT=true
+[2021.11.23-08.56.40:312][852]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/ClubMuffled_Cue18412D484B9D2FF1F5B664B51EB75B0F.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Music/ClubMuffled_Cue.uasset'
+[2021.11.23-08.56.40:329][852]AssetCheck: New page: Asset Save: ClubMuffled_Cue
+[2021.11.23-08.56.40:329][852]LogContentValidation: Display: Validating SoundCue /Game/Music/ClubMuffled_Cue.ClubMuffled_Cue
+[2021.11.23-08.56.42:001][901]LogSlate: Window 'ClubMuffled_Cue' being destroyed
+[2021.11.23-08.56.43:387][980]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.56.43:395][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.56.43:395][980]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:56:43 PM)
+[2021.11.23-08.56.43:395][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.56.43:397][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002326s)
+[2021.11.23-08.56.43:399][980]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.56.43:399][980]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2021.11.23-08.56.43:399][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003777s)
+[2021.11.23-08.56.43:420][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.23-08.56.43:422][980]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.56.43:422][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.56.43:422][980]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.56.43:422][980]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.56.43:429][980]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.56.43:448][980]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.56.43:448][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.56.43:448][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.56.43:448][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.56.43:448][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.56.43:448][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.56.43:449][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.56.43:449][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.56.43:449][980]LogInit: FAudioDevice initialized.
+[2021.11.23-08.56.43:449][980]LogAudio: Display: Audio Device (ID: 49) registered with world 'DLLGame'.
+[2021.11.23-08.56.43:470][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.56.43:470][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.56.43
+[2021.11.23-08.56.43:470][980]LogWorld: Bringing up level for play took: 0.000339
+[2021.11.23-08.56.43:471][980]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.11.23-08.56.43:472][980]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.56.43:472][980]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.56.43:474][980]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.56.43:474][980]PIE: Server logged in
+[2021.11.23-08.56.43:475][980]PIE: Play in editor total start time 0.082 seconds.
+[2021.11.23-08.56.43:507][982]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.56.43:776][982]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 265.65 ms
+[2021.11.23-08.56.44:817][105]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.56.44:817][105]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.56.44:818][105]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.56.44:849][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.23-08.56.45:321][163]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.56.45:338][165]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.56.45:367][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.11.23-08.56.45:614][196]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.56.45:631][198]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.56.45:631][198]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.56.45:631][198]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.56.45:631][198]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.56.46:040][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.11.23-08.56.46:046][201]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.56.46:096][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.11.23-08.56.52:976][244]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.56.53:333][247]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.57.13:918][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.57.13:918][573]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.57.13:919][573]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.57.13:919][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.57.14:000][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.57.14:026][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.57.14:046][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-08.57.14:047][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.57.14:047][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.57.14:049][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.57.14:054][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.11.23-08.57.14:078][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.11.23-08.57.14:123][574]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.11.23-08.57.14:145][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.23-08.57.17:971][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.23-08.57.19:400][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-08.57.19:408][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-08.57.19:408][683]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 10:57:19 PM)
+[2021.11.23-08.57.19:408][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.57.19:410][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002110s)
+[2021.11.23-08.57.19:411][683]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-08.57.19:412][683]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2021.11.23-08.57.19:412][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003445s)
+[2021.11.23-08.57.19:432][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.11.23-08.57.19:433][683]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-08.57.19:433][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-08.57.19:433][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-08.57.19:434][683]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-08.57.19:434][683]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-08.57.19:440][683]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-08.57.19:459][683]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-08.57.19:459][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-08.57.19:459][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-08.57.19:459][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-08.57.19:459][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-08.57.19:459][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-08.57.19:460][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-08.57.19:460][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-08.57.19:460][683]LogInit: FAudioDevice initialized.
+[2021.11.23-08.57.19:460][683]LogAudio: Display: Audio Device (ID: 50) registered with world 'DLLGame'.
+[2021.11.23-08.57.19:484][683]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-08.57.19:484][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-03.57.19
+[2021.11.23-08.57.19:485][683]LogWorld: Bringing up level for play took: 0.000402
+[2021.11.23-08.57.19:485][683]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.11.23-08.57.19:487][683]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-08.57.19:487][683]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-08.57.19:488][683]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-08.57.19:488][683]PIE: Server logged in
+[2021.11.23-08.57.19:489][683]PIE: Play in editor total start time 0.082 seconds.
+[2021.11.23-08.57.19:525][685]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-08.57.19:638][685]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 110.01 ms
+[2021.11.23-08.57.20:689][808]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-08.57.20:689][808]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-08.57.20:689][808]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-08.57.20:718][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.11.23-08.57.21:174][864]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-08.57.21:191][866]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-08.57.21:221][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.23-08.57.21:900][949]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-08.57.21:917][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-08.57.21:917][951]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-08.57.21:917][951]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-08.57.21:917][951]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-08.57.22:213][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.23-08.57.22:218][954]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-08.57.22:386][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.23-08.57.26:331][ 28]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.57.26:720][ 35]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.57.26:933][ 39]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-08.57.43:017][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.57.43:017][319]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-08.57.43:019][319]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-08.57.43:019][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.57.43:125][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-08.57.43:151][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-08.57.43:171][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-08.57.43:171][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.57.43:172][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-08.57.43:179][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.23-08.57.43:201][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.11.23-08.57.43:246][320]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.11.23-08.57.43:266][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.11.23-08.58.03:253][620]Cmd: TRANSACTION UNDO
+[2021.11.23-08.58.03:253][620]LogEditorTransaction: Undo Clicking on Elements
+[2021.11.23-08.58.03:765][626]Cmd: TRANSACTION UNDO
+[2021.11.23-08.58.03:765][626]LogEditorTransaction: Undo Move Elements
+[2021.11.23-08.58.37:606][335]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.23-08.58.45:835][505]Cmd: DELETE
+[2021.11.23-08.58.45:858][505]Cmd: ACTOR DELETE
+[2021.11.23-08.58.46:187][505]LogEditorActor: Deleted Actor: PointLight
+[2021.11.23-08.58.46:211][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.23-08.58.46:215][505]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2021.11.23-08.59.24:202][327]Cmd: DELETE
+[2021.11.23-08.59.24:202][327]Cmd: ACTOR DELETE
+[2021.11.23-08.59.24:209][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-08.59.24:210][327]LogEditorActor: Deleted Actor: SpotLight
+[2021.11.23-08.59.24:235][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.23-08.59.24:239][327]LogEditorActor: Deleted 2 Actors (0.037 secs)
+[2021.11.23-08.59.57:328][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.11.23-08.59.57:328][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.11.23-08.59.58:429][ 39]LogContentBrowser: Deferred new asset file creation: MI_Corrugated_Metal_Sheet_ueykdexew_1K_Inst
+[2021.11.23-08.59.58:498][ 39]LogContentBrowser: Creating deferred item: MI_Corrugated_Metal_Sheet_ueykdexew_1K_Inst
+[2021.11.23-09.00.00:628][ 89]LogContentBrowser: Attempting asset rename: MI_Corrugated_Metal_Sheet_ueykdexew_1K_Inst -> Garage
+[2021.11.23-09.00.00:628][ 89]LogContentBrowser: End creating deferred item MI_Corrugated_Metal_Sheet_ueykdexew_1K_Inst
+[2021.11.23-09.00.10:452][292]Cmd: TRANSACTION UNDO
+[2021.11.23-09.00.10:452][292]LogEditorTransaction: Undo Create Actors
+[2021.11.23-09.00.12:363][322]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Corrugated_Metal_Sheet_ueykdexew/Garage.Garage
+[2021.11.23-09.00.12:407][322]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 3 classes and 0 folders.
+[2021.11.23-09.01.12:194][953]LogSlate: Window 'Garage' being destroyed
+[2021.11.23-09.01.12:276][953]LogSlate: Window 'Garage' being destroyed
+[2021.11.23-09.01.12:389][953]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.11.23-09.01.12:561][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.23-09.01.12:584][953]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.01.12:585][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.01.39:542][509]Cmd: TRANSACTION UNDO
+[2021.11.23-09.01.39:542][509]LogEditorTransaction: Undo Move Elements
+[2021.11.23-09.01.57:417][881]LogActorFactory: Actor Factory created Cone
+[2021.11.23-09.01.57:417][881]LogActorFactory: Actor Factory created Cone
+[2021.11.23-09.01.58:620][907]LogActorFactory: Actor Factory created Cone
+[2021.11.23-09.01.58:621][907]LogActorFactory: Actor Factory created Cone
+[2021.11.23-09.01.59:165][919]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-09.02.09:392][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-09.02.51:968][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-09.03.15:208][656]Cmd: TRANSACTION UNDO
+[2021.11.23-09.03.15:208][656]LogEditorTransaction: Undo Edit Intensity
+[2021.11.23-09.04.01:304][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-09.04.01:337][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.11.23-09.04.01:443][777]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair1931DF68461BF29E37557B82ACB71F40.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-09.04.01:444][777]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.01:444][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-09.04.01:445][777]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataD27424724474F3409389DAA7D68A2646.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-09.04.01:446][777]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.01:463][777]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-09.04.01:463][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.01:463][777]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-09.04.02:168][797]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-09.04.02:176][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-09.04.02:176][797]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 11:04:02 PM)
+[2021.11.23-09.04.02:176][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.04.02:178][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002284s)
+[2021.11.23-09.04.02:180][797]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-09.04.02:180][797]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2021.11.23-09.04.02:180][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003818s)
+[2021.11.23-09.04.02:214][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.11.23-09.04.02:215][797]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-09.04.02:215][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-09.04.02:215][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-09.04.02:216][797]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-09.04.02:216][797]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-09.04.02:222][797]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-09.04.02:241][797]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-09.04.02:241][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-09.04.02:241][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-09.04.02:241][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-09.04.02:242][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-09.04.02:242][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-09.04.02:243][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-09.04.02:243][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-09.04.02:243][797]LogInit: FAudioDevice initialized.
+[2021.11.23-09.04.02:243][797]LogAudio: Display: Audio Device (ID: 51) registered with world 'DLLGame'.
+[2021.11.23-09.04.02:251][797]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-09.04.02:251][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-04.04.02
+[2021.11.23-09.04.02:251][797]LogWorld: Bringing up level for play took: 0.000450
+[2021.11.23-09.04.02:253][797]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.11.23-09.04.02:254][797]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-09.04.02:254][797]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-09.04.02:255][797]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-09.04.02:255][797]PIE: Server logged in
+[2021.11.23-09.04.02:256][797]PIE: Play in editor total start time 0.081 seconds.
+[2021.11.23-09.04.02:298][799]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-09.04.02:472][799]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 169.83 ms
+[2021.11.23-09.04.03:504][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-09.04.03:504][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-09.04.03:504][922]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-09.04.03:538][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.11.23-09.04.03:994][978]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-09.04.04:011][980]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-09.04.04:046][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.23-09.04.04:353][ 18]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-09.04.04:370][ 20]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-09.04.04:370][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-09.04.04:370][ 20]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-09.04.04:370][ 20]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-09.04.04:700][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.23-09.04.04:706][ 23]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-09.04.04:769][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.23-09.04.08:575][ 97]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.04.08:794][100]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.04.09:064][104]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.04.18:389][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.04.18:389][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.04.18:390][289]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.04.18:390][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.04.18:476][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-09.04.18:490][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.04.18:515][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.04.18:516][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.04.18:517][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.04.18:524][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.11.23-09.04.18:552][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.23-09.04.18:595][290]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.11.23-09.04.18:622][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.11.23-09.04.20:911][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-09.04.39:098][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-09.04.39:127][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.23-09.04.39:237][691]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair1C0507F34534B11678ED06AB4365A05E.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-09.04.39:239][691]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.39:239][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-09.04.39:240][691]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData884B41F7454730AE5F22879C7D7C6CF0.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-09.04.39:241][691]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.39:263][691]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-09.04.39:263][691]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-09.04.39:263][691]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-09.04.41:038][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-09.04.41:048][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-09.04.41:048][738]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 11:04:41 PM)
+[2021.11.23-09.04.41:048][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.04.41:051][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2021.11.23-09.04.41:052][738]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-09.04.41:052][738]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2021.11.23-09.04.41:052][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.004437s)
+[2021.11.23-09.04.41:079][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.23-09.04.41:081][738]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-09.04.41:081][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-09.04.41:081][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-09.04.41:082][738]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-09.04.41:082][738]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-09.04.41:089][738]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-09.04.41:105][738]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-09.04.41:105][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-09.04.41:105][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-09.04.41:105][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-09.04.41:106][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-09.04.41:106][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-09.04.41:108][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-09.04.41:108][738]LogInit: FAudioDevice initialized.
+[2021.11.23-09.04.41:108][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-09.04.41:108][738]LogAudio: Display: Audio Device (ID: 52) registered with world 'DLLGame'.
+[2021.11.23-09.04.41:121][738]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-09.04.41:121][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-04.04.41
+[2021.11.23-09.04.41:121][738]LogWorld: Bringing up level for play took: 0.000367
+[2021.11.23-09.04.41:122][738]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.11.23-09.04.41:123][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-09.04.41:123][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-09.04.41:125][738]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-09.04.41:125][738]PIE: Server logged in
+[2021.11.23-09.04.41:125][738]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.23-09.04.41:164][740]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-09.04.41:370][740]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 202.37 ms
+[2021.11.23-09.04.42:396][863]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-09.04.42:396][863]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-09.04.42:396][863]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-09.04.42:430][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.23-09.04.42:962][928]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-09.04.42:979][930]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-09.04.43:014][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.23-09.04.43:295][965]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-09.04.43:325][968]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-09.04.43:325][968]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-09.04.43:326][968]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-09.04.43:326][968]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-09.04.43:630][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.23-09.04.43:635][971]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-09.04.43:738][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.11.23-09.04.48:300][ 27]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.04.48:634][ 29]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.05.04:257][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.05.04:257][331]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.05.04:258][331]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.05.04:258][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.05.04:367][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-09.05.04:380][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.05.04:405][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.05.04:405][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.05.04:406][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.05.04:413][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.11.23-09.05.04:440][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.23-09.05.04:483][332]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.11.23-09.05.04:507][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.23-09.05.13:367][502]Cmd: TRANSACTION UNDO
+[2021.11.23-09.05.13:367][502]LogEditorTransaction: Undo Edit Volume Multiplier
+[2021.11.23-09.05.17:414][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-09.05.17:438][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.23-09.05.17:535][568]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLairC5F3AB81482E3F910F51F8825B2FA6CE.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-09.05.17:536][568]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.05.17:537][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-09.05.17:538][568]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltDataD91022AA49A00ECDB7500DAC9E861E98.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-09.05.17:539][568]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.05.17:553][568]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-09.05.17:553][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-09.05.17:553][568]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-09.05.18:122][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-09.05.18:132][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-09.05.18:132][583]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 11:05:18 PM)
+[2021.11.23-09.05.18:132][583]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.05.18:134][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002244s)
+[2021.11.23-09.05.18:135][583]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-09.05.18:135][583]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2021.11.23-09.05.18:135][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003516s)
+[2021.11.23-09.05.18:163][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.11.23-09.05.18:166][583]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-09.05.18:166][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-09.05.18:166][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-09.05.18:167][583]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-09.05.18:167][583]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-09.05.18:174][583]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-09.05.18:191][583]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-09.05.18:191][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-09.05.18:191][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-09.05.18:191][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-09.05.18:191][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-09.05.18:191][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-09.05.18:193][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-09.05.18:193][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-09.05.18:193][583]LogInit: FAudioDevice initialized.
+[2021.11.23-09.05.18:193][583]LogAudio: Display: Audio Device (ID: 53) registered with world 'DLLGame'.
+[2021.11.23-09.05.18:212][583]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-09.05.18:213][583]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-04.05.18
+[2021.11.23-09.05.18:213][583]LogWorld: Bringing up level for play took: 0.000364
+[2021.11.23-09.05.18:214][583]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.11.23-09.05.18:215][583]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-09.05.18:215][583]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-09.05.18:216][583]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-09.05.18:216][583]PIE: Server logged in
+[2021.11.23-09.05.18:217][583]PIE: Play in editor total start time 0.086 seconds.
+[2021.11.23-09.05.18:263][585]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-09.05.18:408][585]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 140.64 ms
+[2021.11.23-09.05.19:460][708]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-09.05.19:460][708]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-09.05.19:460][708]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-09.05.19:495][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.23-09.05.19:867][754]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-09.05.19:885][756]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-09.05.19:920][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.11.23-09.05.20:142][784]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-09.05.20:159][786]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-09.05.20:159][786]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-09.05.20:159][786]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-09.05.20:159][786]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-09.05.20:466][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.11.23-09.05.20:472][788]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-09.05.20:615][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.11.23-09.05.30:663][835]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.05.31:170][838]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.06.04:018][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.06.04:018][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.06.04:019][429]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.06.04:019][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.06.04:071][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-09.06.04:086][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.06.04:110][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-09.06.04:112][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.06.04:113][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.06.04:118][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.06.04:123][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.11.23-09.06.04:149][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.23-09.06.04:190][430]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.11.23-09.06.04:214][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.23-09.06.32:215][230]LogActorFactory: Actor Factory created Ramp
+[2021.11.23-09.06.32:216][230]LogActorFactory: Actor Factory created Ramp
+[2021.11.23-09.06.33:612][268]LogActorFactory: Actor Factory created Ramp
+[2021.11.23-09.06.33:612][268]LogActorFactory: Actor Factory created Ramp
+[2021.11.23-09.07.10:822][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-09.07.10:850][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.23-09.07.10:951][255]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair3C4D16284F054E818EDE7AA630E4DE4E.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair.umap'
+[2021.11.23-09.07.10:953][255]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.07.10:953][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BuzzBoomerLair_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset" SILENT=true
+[2021.11.23-09.07.10:954][255]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/BuzzBoomerLair_BuiltData4EE6F73B43234AC713EC40810793973A.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/BuzzBoomerLair_BuiltData.uasset'
+[2021.11.23-09.07.10:955][255]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BuzzBoomerLair_BuiltData
+[2021.11.23-09.07.10:972][255]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-09.07.10:972][255]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BuzzBoomerLair_BuiltData.BuzzBoomerLair_BuiltData
+[2021.11.23-09.07.10:972][255]LogContentValidation: Display: Validating World /Game/Maps/BuzzBoomerLair.BuzzBoomerLair
+[2021.11.23-09.07.12:258][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.23-09.07.12:310][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DLLGame" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.23-09.07.12:334][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.23-09.07.12:341][289]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/DLLGame3C7FCB4A4C5297532ACB65B6F78F1C6C.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame.umap'
+[2021.11.23-09.07.12:354][289]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DLLGame_BuiltData
+[2021.11.23-09.07.12:354][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DLLGame_BuiltData" FILE="../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame_BuiltData.uasset" SILENT=true
+[2021.11.23-09.07.13:031][289]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/DLLGame_BuiltData338817DB40630E56F32BE08961350F0C.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Maps/DLLGame_BuiltData.uasset'
+[2021.11.23-09.07.13:033][289]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/DLLGame_BuiltData
+[2021.11.23-09.07.13:033][289]LogFileHelpers: Saving map 'DLLGame' took 0.723
+[2021.11.23-09.07.13:063][289]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/GarageC1050BFE4B8D02C44BA2B8AA28FADB38.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Megascans/Surfaces/Corrugated_Metal_Sheet_ueykdexew/Garage.uasset'
+[2021.11.23-09.07.13:083][289]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-09.07.13:083][289]LogContentValidation: Display: Validating World /Game/Maps/DLLGame.DLLGame
+[2021.11.23-09.07.13:083][289]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DLLGame_BuiltData.DLLGame_BuiltData
+[2021.11.23-09.07.13:083][289]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Corrugated_Metal_Sheet_ueykdexew/Garage.Garage
+[2021.11.23-09.07.14:145][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.11.23-09.07.14:153][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-09.07.14:153][321]PIE: New page: PIE session: DLLGame (Nov 22, 2021, 11:07:14 PM)
+[2021.11.23-09.07.14:153][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.07.14:155][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2021.11.23-09.07.14:156][321]LogAIModule: Creating AISystem for world DLLGame
+[2021.11.23-09.07.14:157][321]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2021.11.23-09.07.14:157][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DLLGame.DLLGame to /Game/Maps/UEDPIE_0_DLLGame.DLLGame (0.003524s)
+[2021.11.23-09.07.14:184][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.23-09.07.14:186][321]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-09.07.14:186][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-09.07.14:186][321]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-09.07.14:186][321]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 4: BackLeft
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 5: BackRight
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 6: SideLeft
+[2021.11.23-09.07.14:194][321]LogAudioMixer: Display: 7: SideRight
+[2021.11.23-09.07.14:211][321]LogAudioMixer: Display: Using Audio Device Speakers (2- Elo 7.1 USB)
+[2021.11.23-09.07.14:211][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-09.07.14:211][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-09.07.14:211][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-09.07.14:212][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-09.07.14:212][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.23-09.07.14:213][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-09.07.14:213][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-09.07.14:213][321]LogInit: FAudioDevice initialized.
+[2021.11.23-09.07.14:213][321]LogAudio: Display: Audio Device (ID: 54) registered with world 'DLLGame'.
+[2021.11.23-09.07.14:224][321]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-09.07.14:225][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DLLGame.DLLGame up for play (max tick rate 0) at 2021.11.23-04.07.14
+[2021.11.23-09.07.14:225][321]LogWorld: Bringing up level for play took: 0.000460
+[2021.11.23-09.07.14:225][321]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.11.23-09.07.14:226][321]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.23-09.07.14:227][321]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-09.07.14:228][321]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 1 1 0
+[2021.11.23-09.07.14:229][321]PIE: Server logged in
+[2021.11.23-09.07.14:229][321]PIE: Play in editor total start time 0.078 seconds.
+[2021.11.23-09.07.14:290][323]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 1 1 0
+[2021.11.23-09.07.14:434][323]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_MainMenu took (less than) 141.88 ms
+[2021.11.23-09.07.15:483][445]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.23-09.07.15:483][445]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.23-09.07.15:483][445]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenuLoadingSplash 0 0 0
+[2021.11.23-09.07.15:516][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.11.23-09.07.16:106][517]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 1 1 0
+[2021.11.23-09.07.16:124][519]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_MainMenu 0 0 0
+[2021.11.23-09.07.16:158][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.11.23-09.07.16:430][553]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 1 1 0
+[2021.11.23-09.07.16:447][555]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.23-09.07.16:447][555]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.23-09.07.16:447][555]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_BuzzBoomerLair 1 1 0
+[2021.11.23-09.07.16:447][555]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_LevelSelection 0 0 0
+[2021.11.23-09.07.16:536][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.11.23-09.07.16:772][558]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_HuneezClubLoadingSplash 0 0 0
+[2021.11.23-09.07.16:877][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.23-09.07.21:516][647]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.07.21:752][651]LogBlueprintUserMessages: [BP_Roaming_Bart_C_0] AI says Ouch!
+[2021.11.23-09.08.43:638][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.08.43:638][439]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DLLGame
+[2021.11.23-09.08.43:639][439]LogWorld: UWorld::CleanupWorld for DLLGame, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.08.43:639][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.08.43:698][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-09.08.43:717][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.08.43:741][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-09.08.43:741][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.08.43:743][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-09.08.43:747][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-09.08.43:753][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.23-09.08.43:780][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.23-09.08.43:831][440]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.11.23-09.08.43:861][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.23-09.08.47:945][538]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Models/Shacks/wooden_platform.wooden_platform
+[2021.11.23-09.09.02:570][465]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (wooden_platform) ...
+[2021.11.23-09.09.05:315][641]LogSavePackage: Moving '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Saved/wooden_platform6D4C918A4C59AB051852A881397C0D7E.tmp' to '../../../../GameJamProjects/GithubGameOff2021/DaddyLongLegs/Content/Environment/Models/Shacks/wooden_platform.uasset'
+[2021.11.23-09.09.05:329][641]AssetCheck: New page: Asset Save: wooden_platform
+[2021.11.23-09.09.05:329][641]LogContentValidation: Display: Validating StaticMesh /Game/Environment/Models/Shacks/wooden_platform.wooden_platform
+[2021.11.23-09.09.06:605][731]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.09.06:605][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.09.11:928][149]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-09.09.11:928][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-09.09.18:796][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.11.23-09.09.22:385][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.11.23-09.09.23:237][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
