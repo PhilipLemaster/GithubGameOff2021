@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="pistol reload_data" version="1.3.0" audacityversion="2.4.1" sel0="0.9524567308" sel1="1.9365387821" vpos="0" h="0.0000000000" zoom="506.0553633218" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2019-08-25T00:24"/>
+		<tag name="ALBUM" value="www.FesliyanStudios.com"/>
+		<tag name="Band" value="www.FesliyanStudios.com"/>
+		<tag name="ARTIST" value="www.FesliyanStudios.com"/>
+		<tag name="TITLE" value="www.FesliyanStudios.com"/>
+		<tag name="COMMENTS" value="www.FesliyanStudios.com"/>
+		<tag name="Composer" value="www.FesliyanStudios.com"/>
+		<tag name="GENRE" value="Sound Clip"/>
+	</tags>
+	<wavetrack name="Mag3" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.05188267" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="17319">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808693.au" len="17319" min="-1.705861" max="2.01808" rms="0.088185"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.61281250" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7974">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a7b.au" len="7974" min="-0.840447" max="0.653156" rms="0.076568"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.04730288" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="23998">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d6e.au" len="23998" min="-0.354733" max="0.342299" rms="0.016769"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Mag3" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.05188267" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="17319">
+				<waveblock start="0">
+					<simpleblockfile filename="e080837f.au" len="17319" min="-1.705861" max="2.01808" rms="0.088185"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.61281250" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7974">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ad6.au" len="7974" min="-0.840447" max="0.653156" rms="0.076568"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.04730288" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="23998">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808700.au" len="23998" min="-0.354733" max="0.342299" rms="0.016769"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

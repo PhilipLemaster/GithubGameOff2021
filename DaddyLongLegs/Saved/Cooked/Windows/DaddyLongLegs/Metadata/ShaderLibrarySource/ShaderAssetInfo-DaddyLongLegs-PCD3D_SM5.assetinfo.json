@@ -194,10 +194,7 @@
 		{
 			"ShaderMapHash": "3DFBE1E1A03F8E1F6449C7CED144E4BAEC2EA957",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Environment/Modular/defaultMat",
-				"/Game/Environment/Models/Dumpster/03_-_Default",
-				"/Game/Environment/Models/Dumpster/scratched_metal"
+				"/Engine/VREditor/TransformGizmo/Xray"
 			]
 		},
 		{
@@ -249,27 +246,31 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DD01A7036E8FD296946F389411F747A92D774A86",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "A711DF8D3437477B4118BD60BCD5775DC1187154",
 			"Assets": [
 				"/Game/Characters/DLL/Materials/L_Arm_Mat",
 				"/Game/Characters/DLL/Materials/R_Arm_Mat",
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/shoes05_001",
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/mens_tanks_elvmuscle1f_001",
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/Material_001",
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/male_generic_001",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/shoes05",
 				"/Game/Characters/Enemies/Huneez/Boss/Textures/male_generic",
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/shoes05",
 				"/Game/Characters/Enemies/Huneez/Boss/Textures/heartneck2",
-				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/shoes05",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/male_generic_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/Material_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/mens_tanks_elvmuscle1f_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/shoes05_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Barnie/Materials/high-poly",
+				"/Game/Characters/Enemies/Huneez/Thugs/Barnie/Materials/male_generic",
 				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/male_generic",
 				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/Material_001",
-				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/mens_teeshirt1j"
+				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/mens_teeshirt1j",
+				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/shoes05",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/high_heels_library",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/female1605"
+			]
+		},
+		{
+			"ShaderMapHash": "DD01A7036E8FD296946F389411F747A92D774A86",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -280,27 +281,107 @@
 				"/Game/Weapons/Pistol/Materials/M_LowPolyWeapons_MAIN_004",
 				"/Game/Weapons/Pistol/Materials/M_LowPolyWeapons_MAIN_005",
 				"/Game/Weapons/Pistol/Materials/M_LowPolyWeapons_MAIN_006",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Mandible",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Leg",
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Body",
 				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Eye",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Body"
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Leg",
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/Bee_Mandible",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/Bee_Mandible",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/Bee_Leg",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/Bee_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "0D07EFB9D135E5AA5C9AD2A88C5B7CE45361F822",
+			"Assets": [
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/m_trousers_01",
+				"/Game/Characters/Enemies/Huneez/Boss/Textures/m_wifebeater_elv1",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/belt4-male-cjeans_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/male-classic-jeans_001",
+				"/Game/Characters/Enemies/Huneez/Thugs/Barnie/Materials/denim_jacket",
+				"/Game/Characters/Enemies/Huneez/Thugs/Barnie/Materials/m_trousers_02",
+				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/male-classic-jeans",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/satin_underware_top",
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/satin_underware_bottom"
+			]
+		},
+		{
+			"ShaderMapHash": "9A6F3F2CEB3CF9E625DF38C7B8384943AF117B1D",
+			"Assets": [
+				"/Game/LowPolyWeapons/Materials/M_LowPolyWeapons_MAIN"
+			]
+		},
+		{
+			"ShaderMapHash": "679611DDF94AC305DB4CE3D9A18A5D29FE1A0632",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "70968F32C3F38025AC6DB6F4E0C7B2426DDE26D4",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5807D91C3E81012003A11B4913C6A7C348C1F350",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST"
+			]
+		},
+		{
+			"ShaderMapHash": "40FECDBD669B6AB737D985D5959A7EEEC4E87E3E",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "C5608FEBA2CC820FC6335D2FB36837262E575429",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "6C852A9D8BBD766E25E19B1108211C02BC40CBF6",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
 			]
 		},
 		{
 			"ShaderMapHash": "D46FDED760E17B78D795B413DCAE4E89DEBA1734",
 			"Assets": [
+				"/Game/LPGenericPropsSet10/Materials/Generic/M_Generic",
 				"/Game/LPGenericPropsSet08/Materials/Generic/M_Generic"
 			]
 		},
 		{
-			"ShaderMapHash": "C87F1C01473DD6C0D4E4518445DB9409F237B35E",
+			"ShaderMapHash": "7BF5EE84B534D2B2D28FA5BD6F92888D9442BBCA",
+			"Assets": [
+				"/Game/Environment/Modular/defaultMat",
+				"/Game/Environment/Models/Dumpster/03_-_Default",
+				"/Game/Environment/Models/Dumpster/scratched_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "1EAC92C0038B655C998548D2389465FA83EA4582",
+			"Assets": [
+				"/Game/UI/Fonts/Yoster/Yoster_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BB9F55DC06852DC06394BEF1355EB3CBC207F06D",
+			"Assets": [
+				"/Game/LPGenericPropsSet08/Materials/Generic/M_GenericGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "B5C16A0BDBD8F06A4BFD44770CB97A4D599A81DD",
 			"Assets": [
 				"/Game/Environment/Models/Garbage/Material__34",
 				"/Game/Environment/Models/Chrysler/Material_004"
 			]
 		},
 		{
-			"ShaderMapHash": "4C3B8FEA814D34B4861A6E3CA575A45B6CA9C1CE",
+			"ShaderMapHash": "73D81BF7172CAC5E33F9D81F817B09B4E343932E",
 			"Assets": [
 				"/Game/Environment/Models/ConcreteSteps/lambert3",
 				"/Game/Environment/Models/ConcreteSteps/lambert2"
@@ -319,73 +400,39 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A1CDF8AFE0D13AC9C617700F6788B35705452D7C",
+			"ShaderMapHash": "D55EE6B1683573A52516C9087F652EC0EB710CA9",
 			"Assets": [
-				"/Game/Environment/Textures/Yellow_Spec"
+				"/Game/FirstPerson/Meshes/BaseMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "C96F9D59FDC2207655050D3B49723EA5AC8E8F0C",
+			"ShaderMapHash": "F43F02BBB07A3E7CCBF7D5FBDB9F9388256F4198",
 			"Assets": [
 				"/Game/Environment/Models/ConcreteSteps/blinn1"
 			]
 		},
 		{
-			"ShaderMapHash": "0D07EFB9D135E5AA5C9AD2A88C5B7CE45361F822",
+			"ShaderMapHash": "2E0BB38573BE67CBB05233FD4B4BA32D774AFFAE",
 			"Assets": [
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/male-classic-jeans_001",
-				"/Game/Characters/Enemies/Huneez/Thugs/Bart/Textures/belt4-male-cjeans_001",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/m_wifebeater_elv1",
-				"/Game/Characters/Enemies/Huneez/Boss/Textures/m_trousers_01",
-				"/Game/Characters/Enemies/Huneez/Thugs/Chuck/Materials/male-classic-jeans"
+				"/Game/Characters/Enemies/Huneez/Strippers/KC/Materials/Bee_Eye"
 			]
 		},
 		{
-			"ShaderMapHash": "6A04FD99640B5260FE69FF5776923F6CB00E73FF",
+			"ShaderMapHash": "9A90EFE27A12700461C84BEF7DD8BAD0C710E078",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
-			]
-		},
-		{
-			"ShaderMapHash": "C5608FEBA2CC820FC6335D2FB36837262E575429",
-			"Assets": [
-				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "40FECDBD669B6AB737D985D5959A7EEEC4E87E3E",
-			"Assets": [
-				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "70968F32C3F38025AC6DB6F4E0C7B2426DDE26D4",
-			"Assets": [
-				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "5807D91C3E81012003A11B4913C6A7C348C1F350",
-			"Assets": [
-				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST"
-			]
-		},
-		{
-			"ShaderMapHash": "679611DDF94AC305DB4CE3D9A18A5D29FE1A0632",
-			"Assets": [
-				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "9A6F3F2CEB3CF9E625DF38C7B8384943AF117B1D",
-			"Assets": [
-				"/Game/LowPolyWeapons/Materials/M_LowPolyWeapons_MAIN"
+				"/Game/Environment/Textures/Emissive_Mat"
 			]
 		},
 		{
 			"ShaderMapHash": "12B425F9536CA0D30D7073D11CDD9F49865AA78C",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "5696D259EC3EB3FFB63C9FCF8BF3767CF4A4591D",
+			"Assets": [
+				"/Game/Maps/BuzzBoomerLair"
 			]
 		},
 		{
@@ -404,12 +451,6 @@
 			"ShaderMapHash": "19F787782282767091BD1E3BA5C177C22C79C0CD",
 			"Assets": [
 				"/Game/UI/Images/huneezneon_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "0186C535B0A7A6D1028D52599484F9CA8E24F7BC",
-			"Assets": [
-				"/Game/Maps/BuzzBoomerLair"
 			]
 		}
 	]

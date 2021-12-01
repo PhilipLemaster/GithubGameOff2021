@@ -1,4 +1,4 @@
-Engine/Binaries/Win64/UnrealGame.exe	2021-07-06T15:10:06.351Z
+Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2021-07-06T15:10:00.248Z
 Engine/Binaries/Win64/turbojpeg.dll	2021-07-06T15:09:27.119Z
 Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2021-07-06T15:12:44.014Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-07-06T15:08:41.918Z
@@ -8,11 +8,10 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-07-06T15:09
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-07-06T15:09:14.470Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-07-06T15:08:41.768Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-07-06T15:08:41.996Z
-Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2021-07-06T15:09:14.496Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2021-07-06T15:08:48.165Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2021-07-06T15:08:48.277Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2021-07-06T15:08:48.048Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2021-07-06T15:08:48.027Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2021-07-06T15:08:47.480Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2021-07-06T15:08:48.161Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2021-07-06T15:08:48.170Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2021-07-06T15:08:47.234Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	2021-07-06T15:08:47.568Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	2021-07-06T15:08:47.302Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-07-06T15:09:14.754Z
-DaddyLongLegs.exe	2021-11-29T22:37:38.587Z
+DaddyLongLegs.exe	2021-12-01T13:27:14.756Z
