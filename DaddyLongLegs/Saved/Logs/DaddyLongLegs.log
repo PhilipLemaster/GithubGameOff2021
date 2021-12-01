@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/30/21 23:40:39
+=======
+﻿Log file open, 11/29/21 04:24:00
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 ﻿Log file open, 11/29/21 04:24:00
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -15,7 +19,11 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: DaddyLongLegs
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.561930
+=======
+LogStats: Stats thread started at 0.272718
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 LogStats: Stats thread started at 0.272718
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -29,11 +37,14 @@ LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GameplayCameras
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
@@ -55,12 +66,19 @@ LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin PlasticSourceControl
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 LogPluginManager: Mounting plugin PlasticSourceControl
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -68,6 +86,7 @@ LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
@@ -104,6 +123,8 @@ LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin VariantManagerContent
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
@@ -136,6 +157,9 @@ LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin MeshModelingToolset
 LogPluginManager: Mounting plugin MotoSynth
@@ -143,6 +167,7 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin LuminPlatformFeatures
@@ -178,6 +203,8 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioSynesthesia
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
@@ -196,11 +223,15 @@ LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AssetTags
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin GooglePAD
@@ -217,6 +248,8 @@ LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin Interchange
 LogPluginManager: Mounting plugin GoogleCloudMessaging
@@ -229,6 +262,9 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin RuntimePhysXCooking
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
@@ -236,16 +272,22 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogConfig: Display: Loading platform ini files took 0.19 seconds
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
@@ -338,6 +380,7 @@ LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.12.01-04.40.41:668][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.12.01-04.40.41:668][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -8929,6 +8972,8 @@ Script Stack (0 frames):
 [2021.12.01-13.27.30:746][120]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
 [2021.12.01-13.27.30:746][120]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=0 (Success)
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 [2021.11.29-09.24.01:819][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.11.29-09.24.01:819][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.11.29-09.24.01:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -10837,4 +10882,7 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.11.29-09.57.41:363][520]LogD3D11RHI: CleanupD3DDevice
 [2021.11.29-09.57.41:374][520]LogExit: Exiting.
 [2021.11.29-09.57.41:568][520]Log file closed, 11/29/21 04:57:41
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275

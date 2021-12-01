@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/30/21 21:26:18
+=======
+﻿Log file open, 11/29/21 04:13:05
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 ﻿Log file open, 11/29/21 04:13:05
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -15,7 +19,11 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: DaddyLongLegs
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.211101
+=======
+LogStats: Stats thread started at 0.209927
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 LogStats: Stats thread started at 0.209927
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -26,6 +34,7 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
@@ -40,6 +49,8 @@ LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PerforceSourceControl
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin CameraShakePreviewer
@@ -60,11 +71,15 @@ LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
@@ -114,6 +129,8 @@ LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin GameplayTagsEditor
@@ -146,6 +163,9 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
@@ -154,9 +174,12 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin WmfMedia
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
@@ -167,6 +190,9 @@ LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ActorSequence
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
@@ -174,6 +200,7 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
@@ -189,6 +216,8 @@ LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
@@ -201,6 +230,9 @@ LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CableComponent
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
@@ -213,6 +245,7 @@ LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
@@ -223,6 +256,8 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogConfig: Display: Loading platform ini files took 0.17 seconds
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
@@ -232,6 +267,9 @@ LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
@@ -241,6 +279,10 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+LogConfig: Display: Loading platform ini files took 0.17 seconds
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 =======
 LogConfig: Display: Loading platform ini files took 0.17 seconds
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
@@ -333,6 +375,7 @@ LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.12.01-02.26.19:853][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.12.01-02.26.19:853][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1616,6 +1659,8 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.01-02.28.22:675][146]LogExit: Exiting.
 [2021.12.01-02.28.22:794][146]Log file closed, 11/30/21 21:28:22
 =======
+=======
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
 [2021.11.29-09.13.06:900][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.11.29-09.13.06:900][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.11.29-09.13.06:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -2736,4 +2781,7 @@ Script Stack (0 frames):
 [2021.11.29-09.23.55:273][ 52]LogWindows: FPlatformMisc::RequestExit(1)
 [2021.11.29-09.23.55:273][ 52]LogCore: Engine exit requested (reason: Win RequestExit)
 [2021.11.29-09.23.55:340][ 52]Log file closed, 11/29/21 04:23:55
+<<<<<<< HEAD
+>>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
+=======
 >>>>>>> 0e11fbcbdaffb4ad96c5942b1b176bf323948275
