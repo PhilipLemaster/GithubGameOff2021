@@ -1,7 +1,10 @@
 # Daddy Long Legs
 
 ## Overview
-Set in a post-apocalyptic world where most of humankind have mutated into bugs, this is a Retro-style FPS where you control Daddy Long Legs (DLL): a contract-killer set to make a living from taking out high priority targets. The current mission requires you to find and break into your target's lair, find him, and kill him in 1-on-1 combat. 
+Set in a post-apocalyptic world where most of humankind have mutated into bugs, this is a Retro-style FPS where you control Daddy Long Legs (DLL): a contract-killer set to make a living from taking out high priority targets. The current mission requires you to find and break into your target's lair, find him, and kill him in 1-on-1 combat.
+
+## Installation
+This game was made using Unreal Engine and is built for play on Windows. Download the game over at https://faceplantphilip.itch.io/daddy-long-legs and run the executable file on your machine to get it running!
 
 ## Controls
 
