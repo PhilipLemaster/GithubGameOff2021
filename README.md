@@ -5,13 +5,14 @@ Set in a post-apocalyptic world where most of humankind have mutated into bugs, 
 
 ## Controls
 
-**WASD - Movement
+**WASD - Movement**
 
-**Left Mouse Click - Fire Weapon
+**Left Mouse Click - Fire Weapon**
 
 ~~**P - Pause~~
-*****DO NOT PRESS P. THE PAUSE FUNCTIONALITY CURRENTLY DOESN'T WORK IN PRODUCTION AND SOFT LOCKS THE GAME.
-Working on a fix ASAP*****
+
+*DO NOT PRESS P. THE PAUSE FUNCTIONALITY CURRENTLY DOESN'T WORK IN PRODUCTION AND SOFT LOCKS THE GAME.
+Working on a fix ASAP*
 
 ## Credits
 A special thanks to the following creators who proved invaluable to completing this project:
