@@ -12,10 +12,7 @@ This game was made using Unreal Engine and is built for play on Windows. Downloa
 
 **Left Mouse Click - Fire Weapon**
 
-~~**P - Pause~~
-
-*DO NOT PRESS P. THE PAUSE FUNCTIONALITY CURRENTLY DOESN'T WORK IN PRODUCTION AND SOFT LOCKS THE GAME.
-Working on a fix ASAP*
+**P - Pause**
 
 ## Credits
 A special thanks to the following creators who proved invaluable to completing this project:
@@ -30,3 +27,8 @@ Unreal Engine 5 (Early Access)
 Mixamo
 MakeHuman
 Blender
+
+Thanks to the following people for their support, conceptual advice, and playtesting:
+My wife
+Nicolas Lemaster
+Vince Frasca
